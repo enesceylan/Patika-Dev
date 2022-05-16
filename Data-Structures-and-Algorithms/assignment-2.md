@@ -22,4 +22,4 @@
 
 > ### Big-O Notation:
 
-O(n*(logn)) --> O(6*(log6))
+O(n _ logn) or O(6 _ log6)
